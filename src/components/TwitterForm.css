@@ -1,0 +1,9 @@
+textarea::-webkit-scrollbar{
+    background-color: #1e2d3c;
+    border-radius: 20px;
+    width: 10px;
+}
+textarea::-webkit-scrollbar-thumb{
+    background-color: #0f1214;
+    border-radius: 20px;
+}
